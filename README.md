@@ -1,0 +1,1 @@
+# Activity-Identification-of-Human-from-Sensory-Datas-using-GPU-Approach
